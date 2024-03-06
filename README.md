@@ -1,6 +1,6 @@
 <h1 align="center"> Jornada Digital: Descobrindo [Lucas Pires] </h1>
 
-![um notebook e um xicara de cafe](https://pasteboard.co/lFM2nFgxVjDI.jpg)
+![um notebook e uma xicara de cafe.](/image/https://pasteboard.co/lFM2nFgxVjDI.jpg "notebook e cafe.")
 
 https://img.shields.io/badge/status-em%20andamento-blue, https://img.shields.io/badge/HTML-orange, https://img.shields.io/badge/JS-yellow
 
