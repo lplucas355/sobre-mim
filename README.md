@@ -4,7 +4,7 @@
 
 
 ![Badge em Desenvolvimento](https://img.shields.io/badge/status-em%20andamento-blue) ![Badge HTML](https://img.shields.io/badge/HTML-orange) ![Badge em JS](https://img.shields.io/badge/JS-yellow) ![Badge em CSS](https://img.shields.io/badge/css-blue)
-)
+
 
 :page_facing_up: Sobre mim é um projeto pessoal onde estou praticando através do curso da Alura, linguagem como HTML,CSS,JS e tornando uma página minha apresentação pessoal, como cursos, experiências e interesses.
 
